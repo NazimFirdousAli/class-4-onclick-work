@@ -13,7 +13,7 @@ function App() {
   <br />
   <button onClick={
     () => setCount(count=count+1)
-  }>Update Counter increment
+  }>Update Counter 
   </button>
   <br /> <br /><br />
 
