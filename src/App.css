@@ -1,0 +1,8 @@
+.box{
+  height: 500px;
+  background-color: yellow;
+  text-align: center;
+}
+.isDay{
+  background-color: lightgray;
+}
